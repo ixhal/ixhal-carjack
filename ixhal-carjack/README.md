@@ -14,8 +14,8 @@
 ['carjack'] = {
 	label = 'Car Jack',
 	weight = 10000,
-    close = true,
-    stack = true,
+    	close = true,
+	stack = true,
 },
 ```
 
