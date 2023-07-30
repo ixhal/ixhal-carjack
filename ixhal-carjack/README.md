@@ -1,8 +1,8 @@
 ### Setup Instructions
-1.Go into config.lua file and change to your framework/inventory options.
-2.Add the item to your qbcore/shared/items.lua file, Your database or your ox-inventory.
-3.Add the png found in the [inventory image] file to your inventory images.
-4.Enjoy!
+1.Go into config.lua file and change to your framework/inventory options.<br>
+2.Add the item to your qbcore/shared/items.lua file, Your database or your ox-inventory.<br>
+3.Add the png found in the [inventory image] file to your inventory images.<br>
+4.Enjoy!<br>
 
 ### QBCORE item:
 ```lua
